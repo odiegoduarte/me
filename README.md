@@ -10,11 +10,11 @@
 
 ####  Quam elementum pulvinar etiam non
 
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
-- [X] Aenean vel elit scelerisque mauris pellentesque. 
-- [ ] Vitae justo eget magna fermentum iaculis eu non. 
-- [ ] Non blandit massa enim nec dui nunc. 
-- [ ] Amet porttitor eget dolor morbi non arcu risus quis.
+- [x]  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+- [X]  Aenean vel elit scelerisque mauris pellentesque. 
+- [ ]  Vitae justo eget magna fermentum iaculis eu non. 
+- [ ]  Non blandit massa enim nec dui nunc. 
+- [ ]  Amet porttitor eget dolor morbi non arcu risus quis.
 
 #### Lorem ipsum
 * Lorem ipsum
