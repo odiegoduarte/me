@@ -16,7 +16,9 @@
 - [X]  Non blandit massa enim nec dui nunc. 
 - [ ]  Amet porttitor eget dolor morbi non arcu risus quis.
 
-## Lorem ipsum
+<p align="center">
+  <img width="920" height="45" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/font40.png">
+</p>
 
 ### Lorem ipsum
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
@@ -41,13 +43,7 @@
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
 
-* [Lorem ipsum](https://github.com/odiegoduarte/me)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-<p align="center">
-  <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
-</p>
-
-### Lorem ipsum
+-----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -55,11 +51,13 @@
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
 
-* [Lorem ipsum](https://github.com/odiegoduarte/me)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+-----------------
+
 <p align="center">
-  <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
+  <img width="920" height="45" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/font40.png">
 </p>
+
+-----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -67,7 +65,29 @@
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
 
-## Lorem ipsum
+-----------------
+
+* [Lorem ipsum](https://github.com/odiegoduarte/me)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p align="center">
+  <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
+</p>
+
+-----------------
+
+* [Lorem ipsum](https://github.com/odiegoduarte/me)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p align="center">
+  <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
+</p>
+
+-----------------
+
+<p align="center">
+  <img width="920" height="45" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/font40.png">
+</p>
+
+-----------------
 
 ### Lorem ipsum
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
