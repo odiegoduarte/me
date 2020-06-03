@@ -24,12 +24,14 @@
 <p align="center">
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
+-----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 <p align="center">
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
+-----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
