@@ -24,6 +24,7 @@
 <p align="center">
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
+
 -----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
@@ -31,6 +32,7 @@
 <p align="center">
   <img width="922" height="455" src="https://raw.githubusercontent.com/odiegoduarte/me/master/images/1080p.jpg">
 </p>
+
 -----------------
 
 * [Lorem ipsum](https://github.com/odiegoduarte/me)
